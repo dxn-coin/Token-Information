@@ -16,6 +16,8 @@ The traditional cross-border payment model has higher remittance fees due to hig
 ➢Total Supply: 410,000,000 DXN
 
 
+
+
 Useful links
 
 Official Website: http://dxncoin.io/
