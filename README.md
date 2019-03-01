@@ -24,4 +24,6 @@ Official Website: http://dxncoin.io/
 
 Whitepaper: http://dxncoin.io/asset/whitepaper.pdf
 
+Contract Address : https://etherscan.io/token/0x3268d46ef90ac92f04532da31b7d404476068d8e
+
 Contact us Feel free to email us at admin@dxncoin.io
